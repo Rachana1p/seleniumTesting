@@ -24,7 +24,7 @@ public class CustomBrowserPopupTest {
 
 public static void setUp() {
 
-	// step1: formulate a test domain url & driver path
+	// step1: formulate a test domain url and driver path
 				String siteUrl = "https://www.amazon.in";
 				String driverPath = "drivers/windows/chromedriver.exe";
 
